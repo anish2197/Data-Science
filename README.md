@@ -8,9 +8,20 @@ This is a repository I have created to track my progress in Data Science/AI rela
 - [Anish Pawar - my road to Data Science](#Anish-Pawar---My-road-to-Data-Science)
 - [About](#about)
 - [Table of contents](#Table-of-contents)
+- [Projects](#Projects)
 - [Mini Projects](#mini-projects)
 - [Programming Showcase](#programming-showcase)
 	+ [Raw Python and R](#raw-python-and-r)
+
+
+## Projects
+
+This sections contains end-to-end projects I created in I used Deep Learning algorithms for problem solving.
+
+| Name | Description | Algorithm |Tech used | Implementation | Report | Start Date | Creation Date |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|Pneumonia Detector| A web application designed to assist doctors in detecting Pneumonia. Common man can also upload image of his chest x-ray to get a accurate prediction. | CNN | Keras, Flask, JS | [link](https://github.com/anish2197/pneumonia-detector) | [link](https://github.com/anish2197/pneumonia-detector/blob/master/README.md) | 29/12/2018 | 6/1/2019 |
+|Distracted Driver Detector | An android application which continously scans driver of a vehicle and detects and alerts if he's distracted or sleepy. Useful in commercial or public transport to enhance security. | CNN | Tensorflow Lite, Keras, Java | WIP | 7/1/2019 | - |
 
 
 
