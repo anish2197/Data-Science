@@ -10,10 +10,10 @@ This end-to-end project consists of a web application which uses Deep Learning a
 - [Screenshots](#Screenshots)
 - [Built with](#Built-with)
 - [Approach towards the solution](#Approach-towards-the-solution)
-	+ [Collecting data](#Step-one-:-Collecting-the-data)
-  + [Modelling Neural Net](#Step-two-:-Modelling-the-Neural-Networks)
-  + [Training the Model](#Step-three-:-Training-the-models)
-  + [Deployment](Step-four-:-Deployment)
+	+ [Collecting data](#Step-one-Collecting-the-data)
+  + [Modelling Neural Net](#Step-two-Modelling-the-Neural-Networks)
+  + [Training the Model](#Step-three-Training-the-models)
+  + [Deployment](Step-four-Deployment)
 - [Conclusion](#Conclusion)
 - [Useful Resources](#Useful-resources)
 - [Running the app](#Running-the-app)
@@ -28,15 +28,15 @@ Here are some screenshots of the demo application :
 
 Normal cases -
 
-![](images/normal1.png)
+![](images/normal1.PNG)
 
-![](images/normal2.png)
+![](images/normal2.PNG)
 
 Pneumonia cases -
 
-![](images/pneu1.png)
+![](images/pneu1.PNG)
 
-![](images/pneu2.png)
+![](images/pneu2.PNG)
 
 ## Built with
 
@@ -47,7 +47,7 @@ Pneumonia cases -
 
 ## Approach towards the solution
 
-#### Step one : Collecting the data
+### Step one : Collecting the data
 
 * Finding right data is crucial to success of any good algorithm. For this reason I spend around a day researching finding all available datasets on kaggle and google. I decided to go with the [NIH Dataset](https://www.kaggle.com/nih-chest-xrays). I made a subset of that dataset containing Pneumonia cases only for my project.
 * The subset contained very few samples (5216) and there was high imbalance between the two classes (normal and pneumonia). Following graph shows the imbalance between the classes :
