@@ -26,14 +26,6 @@ I've grown up watching my father take x-rays and make diagnoses on them. When I 
 
 Here are some screenshots of the demo application :
 
-Normal cases -
-
-![](images/normal1.PNG)
-
-![](images/normal2.PNG)
-
-Pneumonia cases -
-
 ![](images/pneu1.PNG)
 
 ![](images/pneu2.PNG)
